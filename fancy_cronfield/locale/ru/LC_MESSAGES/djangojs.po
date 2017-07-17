@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-17 11:51+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: static/fancy_cronfield/js/jquery-cron.js:49
+#: static/fancy_cronfield/js/jquery-cron.min.js:10
+msgid "Minutes Past the Hour"
+msgstr ""
+
+#: static/fancy_cronfield/js/jquery-cron.js:56
+#: static/fancy_cronfield/js/jquery-cron.min.js:10
+msgid "Time: Hour"
+msgstr "Время: час"
+
+#: static/fancy_cronfield/js/jquery-cron.js:63
+#: static/fancy_cronfield/js/jquery-cron.min.js:10
+msgid "Day of Month"
+msgstr "День месяца"
+
+#: static/fancy_cronfield/js/jquery-cron.js:84
+#: static/fancy_cronfield/js/jquery-cron.min.js:11
+msgid "Time: Minute"
+msgstr "Время: минута"
+
+#: static/fancy_cronfield/js/jquery-cron.js:127
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "%(day)sst"
+msgstr ""
+
+#: static/fancy_cronfield/js/jquery-cron.js:130
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "%(day)snd"
+msgstr ""
+
+#: static/fancy_cronfield/js/jquery-cron.js:133
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "%(day)srd"
+msgstr ""
+
+#: static/fancy_cronfield/js/jquery-cron.js:136
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "%(day)sth"
+msgstr ""
+
+#: static/fancy_cronfield/js/jquery-cron.js:145
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "January"
+msgstr "Январь"
+
+#: static/fancy_cronfield/js/jquery-cron.js:145
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "February"
+msgstr "Февраль"
+
+#: static/fancy_cronfield/js/jquery-cron.js:145
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "March"
+msgstr "Март"
+
+#: static/fancy_cronfield/js/jquery-cron.js:146
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "April"
+msgstr "Апрель"
+
+#: static/fancy_cronfield/js/jquery-cron.js:146
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "May"
+msgstr "Май"
+
+#: static/fancy_cronfield/js/jquery-cron.js:146
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "June"
+msgstr "Июнь"
+
+#: static/fancy_cronfield/js/jquery-cron.js:147
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "July"
+msgstr "Июль"
+
+#: static/fancy_cronfield/js/jquery-cron.js:147
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "August"
+msgstr "Август"
+
+#: static/fancy_cronfield/js/jquery-cron.js:147
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "September"
+msgstr "Сентябрь"
+
+#: static/fancy_cronfield/js/jquery-cron.js:148
+#: static/fancy_cronfield/js/jquery-cron.min.js:12
+msgid "October"
+msgstr "Октябрь"
+
+#: static/fancy_cronfield/js/jquery-cron.js:148
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "November"
+msgstr "Ноябрь"
+
+#: static/fancy_cronfield/js/jquery-cron.js:149
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "December"
+msgstr "Декабрь"
+
+#: static/fancy_cronfield/js/jquery-cron.js:158
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: static/fancy_cronfield/js/jquery-cron.js:158
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Monday"
+msgstr "Понедельник"
+
+#: static/fancy_cronfield/js/jquery-cron.js:158
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: static/fancy_cronfield/js/jquery-cron.js:159
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Wednesday"
+msgstr "Среда"
+
+#: static/fancy_cronfield/js/jquery-cron.js:159
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Thursday"
+msgstr "Четверг"
+
+#: static/fancy_cronfield/js/jquery-cron.js:160
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Friday"
+msgstr "Пятница"
+
+#: static/fancy_cronfield/js/jquery-cron.js:160
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "Saturday"
+msgstr "Суббота"
+
+#: static/fancy_cronfield/js/jquery-cron.js:167
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "minute"
+msgstr "минута"
+
+#: static/fancy_cronfield/js/jquery-cron.js:167
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "hour"
+msgstr "час"
+
+#: static/fancy_cronfield/js/jquery-cron.js:167
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "day"
+msgstr "день"
+
+#: static/fancy_cronfield/js/jquery-cron.js:168
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "week"
+msgstr "неделя"
+
+#: static/fancy_cronfield/js/jquery-cron.js:168
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "month"
+msgstr "месяц"
+
+#: static/fancy_cronfield/js/jquery-cron.js:168
+#: static/fancy_cronfield/js/jquery-cron.min.js:13
+msgid "year"
+msgstr "год"
+
+#: static/fancy_cronfield/js/jquery-cron.js:356
+#: static/fancy_cronfield/js/jquery-cron.min.js:15
+msgid "Every"
+msgstr "Каждые"
+
+#: static/fancy_cronfield/js/jquery-cron.js:374
+#: static/fancy_cronfield/js/jquery-cron.min.js:16
+msgid "on the"
+msgstr "в"
+
+#: static/fancy_cronfield/js/jquery-cron.js:389
+#: static/fancy_cronfield/js/jquery-cron.min.js:17
+msgid "of"
+msgstr "в"
+
+#: static/fancy_cronfield/js/jquery-cron.js:404
+#: static/fancy_cronfield/js/jquery-cron.js:435
+#: static/fancy_cronfield/js/jquery-cron.min.js:17
+#: static/fancy_cronfield/js/jquery-cron.min.js:19
+msgid "at"
+msgstr "в"
+
+#: static/fancy_cronfield/js/jquery-cron.js:406
+#: static/fancy_cronfield/js/jquery-cron.min.js:18
+msgid "minutes past the hour"
+msgstr "минут после часа"
+
+#: static/fancy_cronfield/js/jquery-cron.js:420
+#: static/fancy_cronfield/js/jquery-cron.min.js:18
+msgid "on"
+msgstr "в"
+
+#: static/fancy_cronfield/js/jquery-cron.js:585
+#: static/fancy_cronfield/js/jquery-cron.min.js:25
+msgid "An error occurred when submitting your request. Try again?"
+msgstr ""
+
+#: static/fancy_cronfield/js/jquery-gentleSelect.js:30
+#: static/fancy_cronfield/js/jquery-gentleSelect.min.js:11
+msgid "Make A Selection"
+msgstr ""
